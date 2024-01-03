@@ -1,7 +1,12 @@
-## Title = JavaScript Challenge: Password Generator
+## Title 
+Password Generator
 
 ## Problem space 
 Challenge requires you to create an application that an employee can use to generate a random password based on criteria they've selected.
+
+## Discription 
+The Password Generator is an easy-to-use web tool developed to help users to create strong and secure passwords. The programme provides a customisable technique to creating strong passwords, with a focus on matching certain criteria for password strength.
+
 
 ## User Story
 AS AN employee with access to sensitive data
@@ -28,5 +33,13 @@ THEN the password is either displayed in an alert or written to the page
 ## Difficuity section 
 Creating the IF statesments and for loops was the hardest part of this assignment. 
 
-## Screen Shots 
-./Assests/Images 
+## ScreenShots 
+./Assest/Images/Endresult.png
+./Assest/Images/Image1.png
+./Assest/Images/image2.png
+./Assest/Images/MainPage.png
+./Assest/Images/userInput.png
+
+## Deployed link 
+https://faiza1st.github.io/PasswordGenerator.github.io-/
+
